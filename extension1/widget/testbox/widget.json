@@ -1,0 +1,11 @@
+{
+	"version": 1,
+	"global": false,
+	"javascript": "testbox",
+	"i18nresources": "pt",
+	"availableToAllPages": true,
+	"name": "widget1",
+	"jsEditable": true,
+	"config": {
+	}
+}
